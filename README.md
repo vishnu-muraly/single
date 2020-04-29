@@ -1,6 +1,6 @@
 # Proto1
 
-Proto is a full stack reddit clone that I wrote to learn more about Node.js, React, and NoSQL databases. 
+Proto is a full stack MERN app. 
 
 ## Installation
 
