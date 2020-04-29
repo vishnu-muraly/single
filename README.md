@@ -1,6 +1,6 @@
-# asperitas
+# Proto1
 
-Asperitas is a full stack reddit clone that I wrote to learn more about Node.js, React, and NoSQL databases. The name asperitas comes from a type of [cloud](https://en.wikipedia.org/wiki/Asperitas_(cloud)).
+Proto is a full stack reddit clone that I wrote to learn more about Node.js, React, and NoSQL databases. 
 
 ## Installation
 
@@ -8,7 +8,7 @@ Asperitas is a full stack reddit clone that I wrote to learn more about Node.js,
 
 * node
 * npm
-* mongodb
+* mongodb cloud connection 
 
 1. Clone this repository
 
@@ -25,16 +25,12 @@ Asperitas is a full stack reddit clone that I wrote to learn more about Node.js,
 
 ## Run the app
 
-1. Start mongodb locally
-    ```bash
-    $ mongod
-    ```
-2. Start the server
+1. Start the server
     ```bash
     $ cd server
     $ npm start
     ```
-3. Start the client
+2. Start the client
     ```bash
     $ cd client
     $ npm start
@@ -58,4 +54,4 @@ $ npm test
 
 ## License
 
-This project is made available under the **MIT License**.
+This project is not available under the **MIT License**.
